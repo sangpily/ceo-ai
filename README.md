@@ -1,0 +1,43 @@
+# 중소기업 CEO AI 실무 원포인트 클래스
+
+A-Cube 기업연구소에서 제공하는 CEO를 위한 AI 실무 교육 프로그램 안내 페이지입니다.
+
+## 🎯 강의 개요
+
+- **강의시간**: 4시간 (ChatGPT 3시간 + Gemini 1시간)
+- **정원**: 10명 소수정예
+- **수강료**: 330,000원 (VAT 포함)
+- **진행방식**: 설명 25% / 실습 75%
+
+## 📊 주요 내용
+
+### ChatGPT 트랙 (3시간)
+- CEO 맞춤 세팅 및 프로젝트 구축
+- 회의·상담 기록 자동화
+- 경영 숫자 리포트 자동화 (ADA)
+- GPTs(AI직원) 제작 실습
+
+### Gemini 트랙 (1시간)
+- NotebookLM RAG 실습
+- PPT 보고서 + 팟캐스트 제작
+- 콘텐츠 자동 생성
+
+## 🌐 온라인 안내서
+
+강의 안내서는 아래 링크에서 확인하실 수 있습니다:
+
+**https://sangpily.github.io/ceo-ai-class/**
+
+## 📞 문의
+
+- **Tel**: 02-6283-9266
+- **Mobile**: 010-9903-2633
+- **E-mail**: sangpily@naver.com
+
+## 🎓 수강 신청
+
+[수강 신청하기](https://forms.gle/6wHW9cScCs78k6AZA)
+
+---
+
+© 2025 A-Cube Corporate Research Institute. All rights reserved.
